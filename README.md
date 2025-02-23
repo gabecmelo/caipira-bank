@@ -107,4 +107,4 @@ Contribuições são bem-vindas! Siga estes passos:
 ## 📄 Licença
 Este projeto está sob licença MIT - veja o arquivo [LICENSE](https://github.com/gabecmelo/caipira-bank/blob/main/LICENSE) para detalhes.
 
-**Divirta-se gerenciando seu dinheiro no estilo caipira! 🧑🌾🚜**
+### **Divirta-se gerenciando seu dinheiro no estilo caipira! 🧑🌾🚜**
